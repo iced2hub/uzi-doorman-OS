@@ -1,7 +1,6 @@
 =
                          UZI DOORMAN OS
-                         
-=______________________________________________________________________
+=
 
 "Ugh, what do you want?! Type something or BITE ME."
 
