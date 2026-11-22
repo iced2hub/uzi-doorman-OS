@@ -5,9 +5,9 @@
 "Ugh, what do you want?! Type something or BITE ME."
 
 -----------------------------------------------------------------------
-DOWNLOAD
------------------------------------------------------------------------
-Check release for uzi files!
+
+## Download
+Grab the latest release `.zip` from the **Releases** section on the right!
 
 ------------------------------------------------------------------------
 CREDITS & APPRECIATION
